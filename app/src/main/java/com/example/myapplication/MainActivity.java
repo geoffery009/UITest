@@ -37,4 +37,7 @@ public class MainActivity extends AppCompatActivity {
     public void skip6(View view) {
         startActivity(new Intent(this, Main7Activity.class));
     }
+    public void skip7(View view) {
+        startActivity(new Intent(this, Main8Activity.class));
+    }
 }
