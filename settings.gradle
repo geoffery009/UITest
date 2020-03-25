@@ -1,2 +1,3 @@
 rootProject.name='My Application'
-include ':app'
+include ':app', ':player-lib'
+include ':useageapp'

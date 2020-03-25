@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SportCircle">
+        <attr name="circleColor" format="color" />
+        <attr name="circleInColor" format="color" />
+        <attr name="circleValueColor" format="color" />
+        <attr name="valueProgress" format="float" />
+    </declare-styleable>
+</resources>

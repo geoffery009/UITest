@@ -38,4 +38,11 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="@android:color/holo_red_dark" />
+
+    <Button
+        android:id="@+id/button24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="skip1"
+        android:text="Button" />
 </LinearLayout>

@@ -56,4 +56,10 @@
         android:onClick="skip7"
         android:text="ViewDragHelper" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="skip8"
+        android:text="ExoPlayer" />
+
 </LinearLayout>

@@ -12,11 +12,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Main8_5Activity"></activity>
-        <activity android:name=".Main8_4Activity"></activity>
-        <activity android:name=".Main8_3Activity"></activity>
-        <activity android:name=".Main8_2Activity"></activity>
-        <activity android:name=".Main8_1Activity"></activity>
+        <activity android:name=".Main5_1Activity"></activity>
+        <activity android:name=".Main8_5Activity" />
+        <activity android:name=".Main8_4Activity" />
+        <activity android:name=".Main8_3Activity" />
+        <activity android:name=".Main8_2Activity" />
+        <activity android:name=".Main8_1Activity" />
         <activity android:name=".Main8Activity" />
         <activity android:name=".Main7_5Activity" />
         <activity android:name=".Main7_4Activity" />

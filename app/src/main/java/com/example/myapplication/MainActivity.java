@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.exoplayer.PlayerActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -37,7 +39,12 @@ public class MainActivity extends AppCompatActivity {
     public void skip6(View view) {
         startActivity(new Intent(this, Main7Activity.class));
     }
+
     public void skip7(View view) {
         startActivity(new Intent(this, Main8Activity.class));
+    }
+
+    public void skip8(View view) {
+        startActivity(new Intent(this, PlayerActivity.class));
     }
 }
